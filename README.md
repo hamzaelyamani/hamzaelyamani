@@ -3,6 +3,7 @@
 - Je suis actuellement Enseignant-Chercheur temporaire (ATER) à l'Université de Tours
 - Pour me contacter :
     - Email : hamza.elyamani.pro@gmail.com
+    - Email universitaire actuel : hamza.elyamani@univ-tours.fr
     - Discord : Hamza#9718
     - Linkedin : https://fr.linkedin.com/in/hamza-el-yamani-a8096375
     - Researchgate : https://www.researchgate.net/profile/Hamza-El-Yamani
