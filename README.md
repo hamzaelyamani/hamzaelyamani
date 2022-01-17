@@ -1,6 +1,6 @@
 - Bonjour, je m'appelle Hamza El Yamani
 - Je suis Docteur en Génie Mécanique de l'INSA Centre Val de Loire, Ingénieur en Maîtrise des Risques Industriels de l'INSA Centre Val de Loire
-- Je suis actuellement Enseignant-Chercheur temporaire (ATER) à l'Université de Tours
+- Je suis actuellement Attaché Temporaire d'Enseignement et de Recherche (Enseignant-Chercheur temporaire) à l'Université de Tours
 - Pour me contacter :
     - Email : hamza.elyamani.pro@gmail.com
     - Email universitaire actuel : hamza.elyamani@univ-tours.fr
