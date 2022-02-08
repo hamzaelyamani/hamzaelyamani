@@ -1,4 +1,5 @@
-2021-2022 : ATER à l'Université de Tours, dans la composante Polytech Tours
+2021-2022 : ATER à l'Université de Tours, dans la composante Polytech Tours.
+
 Service d'enseignement de 192 heures équivalent TD (service prévisionnel) :
 - Cours-TD de « Introduction à la Mécanique des Solides » PeiP 2A : 24 heures ;
 - Cours-TD de « Introduction à la Résistance des Matériaux » PeiP 2A : 12 heures ;
@@ -19,6 +20,7 @@ Service d'enseignement de 192 heures équivalent TD (service prévisionnel) :
 - Travaux pratiques de « Fabrication » MMA 3A : 12 heures.
 
 2017-2021 : Chargé d'enseignement à l'INSA Centre Val de Loire
+
 Service d'enseignement de 265 heures réalisé à l'INSA Centre Val de Loire dans les départements STPI et MRI :
 - Projets de « Synthèse Industrielle » 4A MRI (Projets de bureau d’étude en mécanique des structures) : 59 heures ;
 - Travaux pratiques de « Programmation Fortran » 4A MRI : 16 heures ;
