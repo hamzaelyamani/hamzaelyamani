@@ -3,6 +3,7 @@ Formation :
 - 2018-2021 : Doctorat en Génie Mécanique de l'INSA Centre Val de Loire
 - 2016-2017 : Master Recherche en Mécanique et Physique de l'INSA Centre Val de Loire et de l'Université de Technologie de Troyes
 - 2012-2017 : Diplôme d'ingénieur en Maîtrise des Risques Industriels de l'INSA Centre Val de Loire
+- 2012 : Baccalauréat Scientifique, Lycée Lyautey
 
 Expérience Professionnelle :
 
