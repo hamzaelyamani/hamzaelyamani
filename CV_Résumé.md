@@ -26,7 +26,7 @@ Expérience Administrative, Associative et Personnel :
 Compétences :
 
 - Techniques expérimentales en mécanique des solides et des fluides
-- Méthodes numériques : calcul éléments finis (Cast3M, Patran, Abaqus), CFD (ANSYS Fluent, FDS), programmation informatique (C, C++, Fortran, python, VBA, OCaml)
+- Méthodes numériques : calcul éléments finis (Cast3M, Patran, Abaqus), CFD (ANSYS Fluent, FDS), programmation informatique (C, C++, Fortran, Python, VBA, OCaml)
 - Connaissances en mécanique, physique, sciences de l'ingénieur, informatique et mathématiques appliquées
 - Ingénierie et maîtrise des risques : Analyse fonctionnelle, gestion de projet, analyse des risques (AMDEC, Arbre de défaillance)
 - Compétences rédactionnelles : rédaction d'une thèse, rédaction de quelques articles scientifiques (en français et en anglais), rédaction de plusieurs rapports d'avancement...
